@@ -1,0 +1,35 @@
+{
+  "wlr_auto_currency": {
+    "name": "WPLoyalty - Multi Currency",
+    "description": "Adds multi-currency support for WPLoyalty with automatic currency conversion compatibility with 4 popular multicurrency plugins for WooCommerce",
+    "download_url": "https://github.com/wployalty/wployalty_auto_currency/releases/download/Stable/wp-loyalty-auto-currency.zip",
+    "plugin_file": "wp-loyalty-auto-currency/wp-loyalty-auto-currency.php",
+    "min_required_wployalty": "1.2.0",
+    "min_required_php": "7.0.0",
+    "min_required_woocommerce":"4.9.0",
+    "is_needed_pro": false,
+    "is_free_plugin": true
+  },
+  "wlr_woo_discount_rules": {
+    "name": "WPLoyalty - Woo Discount Rule Integration",
+    "description": "This add-on used for integrate woo discount rules",
+    "download_url": "",
+    "plugin_file": "wp-loyalty-woo-discount-rules/wp-loyalty-woo-discount-rules.php",
+    "min_required_wployalty": "1.2.0",
+    "min_required_php": "7.0.0",
+    "min_required_woocommerce":"4.9.0",
+    "is_needed_pro": false,
+    "is_free_plugin": true
+  },
+  "wlr_translate": {
+    "name": "WPLoyalty - dynamic string translation",
+    "description": "This add-on used to translate dynamic string for WPLoyalty and related add-on",
+    "download_url": "https://github.com/wployalty/wployalty_translate/releases/download/Stable/wp-loyalty-translate.zip",
+    "plugin_file": "wp-loyalty-translate/wp-loyalty-translate.php",
+    "min_required_wployalty": "1.1.9",
+    "min_required_php": "7.0.0",
+    "min_required_woocommerce":"4.9.0",
+    "is_needed_pro": false,
+    "is_free_plugin": true
+  }
+}
