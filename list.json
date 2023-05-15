@@ -13,7 +13,7 @@
   "wlr_woo_discount_rules": {
     "name": "WPLoyalty - Woo Discount Rule Integration",
     "description": "This add-on used for integrate woo discount rules",
-    "download_url": "",
+    "download_url": "https://github.com/wployalty/wployalty_woo_discount_rules/releases/download/Stable/wp-loyalty-woo-discount-rules.zip",
     "plugin_file": "wp-loyalty-woo-discount-rules/wp-loyalty-woo-discount-rules.php",
     "min_required_wployalty": "1.2.0",
     "min_required_php": "7.0.0",
